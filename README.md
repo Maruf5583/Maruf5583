@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Current Work:** TourGuideApp Platform with ASP.NET Core MVC
+- 🔭 **Current Work:** TourGuideApp Platform with ASP.NET Core Clean Architechture
 - 🌱 **Learning:** ASP.NET Core, Entity Framework Core, Web APIs
 - 👯 **Looking to collaborate on:** .NET Core open-source projects
 - 💬 **Ask me about:** ASP.NET Core, C#, SQL Server, Entity Framework
@@ -60,14 +60,6 @@
 
 ---
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maruf5583&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
 
 
 
