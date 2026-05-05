@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Current Work:** E-commerce Platform with ASP.NET Core MVC
+- 🔭 **Current Work:** TourGuideApp Platform with ASP.NET Core MVC
 - 🌱 **Learning:** ASP.NET Core, Entity Framework Core, Web APIs
 - 👯 **Looking to collaborate on:** .NET Core open-source projects
 - 💬 **Ask me about:** ASP.NET Core, C#, SQL Server, Entity Framework
@@ -60,18 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maruf5583&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf5583&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maruf5583&theme=tokyonight&hide_border=true" width="70%" />
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -81,30 +69,7 @@
 
 ---
 
-## 🏆 Featured Project
 
-### 🛒 OnlineShop - E-commerce Platform
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-**🔗 Live Demo:** [github.com/Maruf5583/OnlineShop](https://github.com/Maruf5583/OnlineShop)
-
-A complete e-commerce solution built with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core**.
-
-| Feature | Description |
-|---------|-------------|
-| ✅ Admin & User Areas | Separate panels with MVC Areas |
-| ✅ Shopping Cart | Add/remove items, update quantities |
-| ✅ Order Management | Place orders & track history |
-| ✅ Authentication | Role-based Authorization |
-| ✅ Responsive Design | Bootstrap 5 powered UI |
-
----
 
 ## 📫 Connect With Me
 
