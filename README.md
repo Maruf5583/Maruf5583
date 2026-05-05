@@ -9,44 +9,54 @@
 
 ## 🚀 About Me
 
-
+- 🔭 **Current Work:** E-commerce Platform with ASP.NET Core MVC
 - 🌱 **Learning:** ASP.NET Core, Entity Framework Core, Web APIs
 - 👯 **Looking to collaborate on:** .NET Core open-source projects
 - 💬 **Ask me about:** ASP.NET Core, C#, SQL Server, Entity Framework
-- 📫 **Email:** [marufhasanash@gmail.com](mailto:marufhasanash@gmail.com)
+- 📫 **Email:** marufhasanash@gmail.com
 - ⚡ **Fun fact:** I love solving real-world problems with code
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 🎯 Core Competencies
+<div align="center">
 
-| Technology | Level |
-|------------|-------|
-| **ASP.NET Core** | <img src="https://progress-bar.xyz/90?progress=90&scale=100&width=250&suffix=&color=512BD4&title=&width=250" width="250"/> Expert |
-| **C#** | <img src="https://progress-bar.xyz/90?progress=90&scale=100&width=250&suffix=&color=239120&title=&width=250" width="250"/> Expert |
-| **SQL Server** | <img src="https://progress-bar.xyz/85?progress=85&scale=100&width=250&suffix=&color=CC2927&title=&width=250" width="250"/> Advanced |
-| **Entity Framework Core** | <img src="https://progress-bar.xyz/85?progress=85&scale=100&width=250&suffix=&color=512BD4&title=&width=250" width="250"/> Advanced |
-| **PostgreSQL** | <img src="https://progress-bar.xyz/80?progress=80&scale=100&width=250&suffix=&color=336791&title=&width=250" width="250"/> Growing |
-| **FastAPI** | <img src="https://progress-bar.xyz/80?progress=80&scale=100&width=250&suffix=&color=009688&title=&width=250" width="250"/> Growing |
+### Backend
 
-### 🎨 Frontend & Web Technologies
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-| Technology | Level |
-|------------|-------|
-| **HTML5 & CSS3** | <img src="https://progress-bar.xyz/90?progress=90&scale=100&width=250&suffix=&color=E34F26&title=&width=250" width="250"/> Master |
-| **JavaScript** | <img src="https://progress-bar.xyz/85?progress=85&scale=100&width=250&suffix=&color=F7DF1E&title=&width=250" width="250"/> Pro |
-| **Bootstrap 5** | <img src="https://progress-bar.xyz/90?progress=90&scale=100&width=250&suffix=&color=7952B3&title=&width=250" width="250"/> Expert |
-| **Responsive Design** | <img src="https://progress-bar.xyz/90?progress=90&scale=100&width=250&suffix=&color=61DAFB&title=&width=250" width="250"/> Master |
+### Database
 
-### ⚡ Advanced Skills
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-| Technology | Level |
-|------------|-------|
-| **RESTful Web APIs** | <img src="https://progress-bar.xyz/90?progress=90&scale=100&width=250&suffix=&color=009688&title=&width=250" width="250"/> Expert |
-| **Real-time Communication** | <img src="https://progress-bar.xyz/85?progress=85&scale=100&width=250&suffix=&color=61DAFB&title=&width=250" width="250"/> Advanced |
-| **Authentication (JWT/Identity)** | <img src="https://progress-bar.xyz/90?progress=90&scale=100&width=250&suffix=&color=000000&title=&width=250" width="250"/> Expert |
+### Frontend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+### Tools & Others
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+### APIs & Authentication
+
+<img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+</div>
 
 ---
 
@@ -71,7 +81,30 @@
 
 ---
 
+## 🏆 Featured Project
 
+### 🛒 OnlineShop - E-commerce Platform
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+**🔗 Live Demo:** [github.com/Maruf5583/OnlineShop](https://github.com/Maruf5583/OnlineShop)
+
+A complete e-commerce solution built with **ASP.NET Core MVC**, **SQL Server**, and **Entity Framework Core**.
+
+| Feature | Description |
+|---------|-------------|
+| ✅ Admin & User Areas | Separate panels with MVC Areas |
+| ✅ Shopping Cart | Add/remove items, update quantities |
+| ✅ Order Management | Place orders & track history |
+| ✅ Authentication | Role-based Authorization |
+| ✅ Responsive Design | Bootstrap 5 powered UI |
+
+---
 
 ## 📫 Connect With Me
 
