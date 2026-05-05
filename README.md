@@ -18,35 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
 
-### Core Competencies
-| Technology | Proficiency |
-|------------|-------------|
-| **ASP.NET Core** | ████████████████████░ 90% |
-| **C#** | ████████████████████░ 90% |
-| **SQL Server** | ███████████████████░░ 85% |
-| **Entity Framework Core** | ███████████████████░░ 85% |
-| **PostgreSQL** | ██████████████████░░░ 80% |
-| **FastAPI** | ██████████████████░░░ 80% |
-
-### Frontend & Web Technologies
-| Technology | Proficiency |
-|------------|-------------|
-| **HTML5 & CSS3** | ████████████████████░ 90% |
-| **JavaScript** | ███████████████████░░ 85% |
-| **Bootstrap 5** | ████████████████████░ 90% |
-| **Responsive Design** | ████████████████████░ 90% |
-
-### Advanced Skills
-| Technology | Proficiency |
-|------------|-------------|
-| **RESTful Web APIs** | ████████████████████░ 90% |
-| **Real-time Communication** | ███████████████████░░ 85% |
-| **Authentication (JWT/Identity)** | ████████████████████░ 90% |
-| **Dependency Injection** | ████████████████████░ 90% |
-
----
 
 ## 📊 GitHub Stats
 
@@ -59,7 +31,96 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maruf5583&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
+## 🛠️ Technical Skills
+
+<div align="center">
+  
+### 🎯 Core Competencies
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/><br/>
+      <b>ASP.NET Core</b><br/>
+      <img src="https://progress-bar.dev/90/" width="150" height="15"/>
+    </td>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/><br/>
+      <b>C#</b><br/>
+      <img src="https://progress-bar.dev/90/" width="150" height="15"/>
+    </td>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/><br/>
+      <b>SQL Server</b><br/>
+      <img src="https://progress-bar.dev/85/" width="150" height="15"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/><br/>
+      <b>Entity Framework Core</b><br/>
+      <img src="https://progress-bar.dev/85/" width="150" height="15"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br/>
+      <b>PostgreSQL</b><br/>
+      <img src="https://progress-bar.dev/80/" width="150" height="15"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/><br/>
+      <b>FastAPI</b><br/>
+      <img src="https://progress-bar.dev/80/" width="150" height="15"/>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Frontend & Web Technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/><br/>
+      <b>HTML5</b> <b>+ CSS3</b><br/>
+      <img src="https://progress-bar.dev/90/" width="130" height="12"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br/>
+      <b>JavaScript</b><br/>
+      <img src="https://progress-bar.dev/85/" width="130" height="12"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br/>
+      <b>Bootstrap 5</b><br/>
+      <img src="https://progress-bar.dev/90/" width="130" height="12"/>
+    </td>
+    <td align="center" width="200">
+      <i class="fas fa-mobile-alt"></i><br/>
+      <b>Responsive Design</b><br/>
+      <img src="https://progress-bar.dev/90/" width="130" height="12"/>
+    </td>
+  </tr>
+</table>
+
+### ⚡ Advanced Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      🌐 <b>RESTful Web APIs</b><br/>
+      <img src="https://progress-bar.dev/90/" width="160" height="13"/>
+    </td>
+    <td align="center" width="250">
+      💬 <b>Real-time Communication</b><br/>
+      <img src="https://progress-bar.dev/85/" width="160" height="13"/>
+    </td>
+    <td align="center" width="250">
+      🔐 <b>Authentication (JWT/Identity)</b><br/>
+      <img src="https://progress-bar.dev/90/" width="160" height="13"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🏆 Featured Projects
 
