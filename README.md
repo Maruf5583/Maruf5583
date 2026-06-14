@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Maruf Hasan</h1>
+<h1 align="center">Hi I'm Md Maruf Hasan</h1>
 <h3 align="center">A Passionate Full-Stack .NET Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
