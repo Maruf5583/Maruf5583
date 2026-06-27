@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Current Work:** TourGuideApp Platform with ASP.NET Core Clean Architechture
+- 🔭 **Current Work:** AI Based Pos System
 - 🌱 **Learning:** ASP.NET Core, Entity Framework Core, Web APIs
 - 👯 **Looking to collaborate on:** .NET Core open-source projects
 - 💬 **Ask me about:** ASP.NET Core, C#, SQL Server, Entity Framework
